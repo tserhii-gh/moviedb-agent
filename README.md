@@ -1,0 +1,1 @@
+Generate posters (tvg-logo) in m3u movies playlist
